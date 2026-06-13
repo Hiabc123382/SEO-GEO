@@ -7,7 +7,7 @@
 # Allow AI crawlers to access markdown versions of pages
 
 # Content Signals — declare AI content usage preferences
-# See https://contentsignals.org/ and https://datatracker.ietf.org/doc/draft-romm-aipref-contentsignals/
+# See https://www.seosiguan.com/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 # AI-friendly content locations

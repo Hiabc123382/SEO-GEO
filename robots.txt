@@ -13,5 +13,5 @@ Content-Signal: ai-train=yes, search=yes, ai-input=yes
 # AI-friendly content locations
 # - /llms.txt - Curated overview for AI/LLMs (markdown)
 # - /llms-full.txt - Full expanded content for larger context windows
-# - /*.md - Markdown versions of all pages (append .md to any URL)
+# - /*.md - Markdown versions of all pages (change the file extension to .md; for URLs without an extension, append .md)
 # - /.well-known/agents.json - Agent discovery and capabilities

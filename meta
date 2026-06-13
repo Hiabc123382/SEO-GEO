@@ -10,7 +10,7 @@
 | `<meta name="author">` | 页面作者，间接辅助内容可信度 | `<meta name="author" content="作者名">` |
 | `<meta name="copyright">` | 版权声明，辅助品牌展示 | `<meta name="copyright" content="公司名">` |
 | `<meta name="description">` | 搜索结果摘要，核心 SEO 标签 | `<meta name="description" content="150字以内描述">` |
-| `<meta name="keywords">` | 关键词（**已废弃**，但某些内部系统可能使用） | `<meta name="keywords" content="词1,词2">` |
+| `<meta name="keywords">` | 关键词（已废弃，但某些内部系统可能使用） | `<meta name="keywords" content="词1,词2">` |
 | `<meta name="rating">` | 内容分级（如成人内容），影响安全搜索过滤 | `<meta name="rating" content="general">` |
 | `<meta name="robots">` | 爬虫索引与展示指令（见下文详细值） | `<meta name="robots" content="index, follow">` |
 | `<meta name="googlebot">` | 专为 Google 爬虫的 robots 设置 | `<meta name="googlebot" content="noindex">` |
@@ -33,13 +33,13 @@
 | `noarchive` | 禁止搜索引擎缓存页面副本 | SEO + AI (减少训练素材快照) |
 | `nocache` | 功能同 `noarchive`，较少用 | SEO |
 | `nofollow` | 不跟踪页面上的链接 | SEO |
-| `noimageai` | **非官方**声明：不允许将图片用于 AI 训练 | AI |
+| `noimageai` | 非官方声明：不允许将图片用于 AI 训练 | AI |
 | `noimageindex` | 不索引页面中的图片 | SEO + AI (减少图片被抓取训练) |
-| `noai` | **非官方**声明：不允许将内容用于 AI 训练 | AI |
+| `noai` | 非官方声明：不允许将内容用于 AI 训练 | AI |
 | `noindex` | 不索引页面 | SEO |
 | `none` | 等同于 `noindex, nofollow` | SEO |
 | `noodp` | 废弃，原用于阻止使用 DMOZ 描述 | SEO (历史) |
-| `nosnippet` | 不在搜索结果中显示摘要、缩略图，**可阻止在 AI 摘要中出现片段** | SEO + AI |
+| `nosnippet` | 不在搜索结果中显示摘要、缩略图，可阻止在 AI 摘要中出现片段 | SEO + AI |
 | `notranslate` | 不在搜索结果中提供翻译链接 | SEO |
 | `noydir` | 废弃，原用于阻止 Yahoo 目录 | SEO (历史) |
 | `unavailable_after:[日期]` | 在指定日期后从索引中移除页面 | SEO |

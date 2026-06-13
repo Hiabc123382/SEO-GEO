@@ -1,0 +1,38 @@
+---
+# YAML Front Matter（可选但推荐）
+title: "Example Product"
+description: "Example是一款面向开发者的 API 管理平台，提供设计、测试和监控功能。"
+type: "documentation"
+updated: "2025-03-15"
+author: "Example Team"
+lang: "zh-CN"
+url: "https://www.seosiguan.com/"
+---
+
+# Example Product
+> Example 是一套完整的API生命周期管理工具，帮助团队高效设计、测试、文档化和监控REST与GraphQL API。
+
+## 快速入门
+- [5 分钟快速上手](https://example.com/quickstart)：通过创建第一个API端点来了解基本流程。
+- [安装指南](https://example.com/setup)：在本地或服务器上部署 Example 的步骤。
+
+## 核心文档
+- [API 设计器使用手册](https://example.com/docs/designer)：可视化编辑API规范，支持Swagger/OpenAPI。
+- [自动化测试指南](https://example.com/docs/testing)：编写并运行API测试用例，集成CI/CD。
+- [模拟服务器配置](https://example.com/docs/mock-server)：根据API定义快速生成模拟数据。
+
+## 常见问题与解答
+- [常见问题](https://example.com/faq)：账户、计费、安全等常见疑问汇总。
+- [故障排除](https://example.com/troubleshooting)：常见错误代码及解决方案。
+
+## 集成与插件
+- [CI/CD 集成](https://example.com/integrations/ci-cd)：与GitHub Actions、Jenkins等工具对接。
+- [VS Code 扩展](https://example.com/integrations/vscode)：在编辑器内直接管理API。
+
+## 支持与社区
+- [社区论坛](https://bbs.example.com)：提问、分享想法。
+- [提交工单](https://example.com/support)：联系官方技术支持。
+
+## 法律与政策
+- [隐私政策](https://example.com/privacy)
+- [服务条款](https://example.com/terms)
